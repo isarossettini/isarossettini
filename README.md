@@ -1,4 +1,8 @@
-## Hi there 👋
+# Hi, I'm Isabela Rossettini 👋
+
+I'm an Analysis and Systems Development student focused on Backend Development with Java.
+
+I enjoy building clean, scalable applications and I'm constantly improving my skills through projects, study and hands-on practice.
 
 <!--
 **isarossettini/isarossettini** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
