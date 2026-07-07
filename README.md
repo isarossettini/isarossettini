@@ -5,6 +5,8 @@
 I'm passionate about Java Backend Development and currently studying Analysis and Systems Development. with Java.
 
 I enjoy building clean, scalable applications and I'm constantly improving my skills through projects, continuous learning and hands-on practice.
+
+📍 Paraná, Brazil
 <!--
 **isarossettini/isarossettini** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
