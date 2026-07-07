@@ -15,9 +15,9 @@ I enjoy building clean, scalable applications and I'm constantly improving my sk
 
 ## Featured Projects
 
-> 🚀 Building a portfolio of backend applications.
+> 🚀 Currently in development.
 >
-> Real-world Java and Spring Boot projects will be showcased here.
+> My featured projects will appear here as I build and publish production-ready backend applications.
 <!--
 **isarossettini/isarossettini** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
