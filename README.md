@@ -1,6 +1,6 @@
 # Hi, I'm Isabela Rossettini 👋
 
-### Java Backend Developer
+### Backend Java Developer
 
 I'm an Analysis and Systems Development student focused on Backend Development with Java.
 
