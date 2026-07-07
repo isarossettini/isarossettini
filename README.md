@@ -21,13 +21,6 @@ I enjoy building clean, scalable applications and I'm constantly improving my sk
 
 ## GitHub Stats
 
-<div align="center">
-
-[Stats]
-
-[Top Languages]
-
-</div>
 <!--
 **isarossettini/isarossettini** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
