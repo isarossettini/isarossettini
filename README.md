@@ -18,6 +18,13 @@ I enjoy building clean, scalable applications and I'm constantly improving my sk
 > 🚀 Currently in development.
 >
 > My featured projects will appear here as I build and publish production-ready backend applications.
+
+## GitHub Stats
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=isarossettini&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=isarossettini&layout=compact&theme=github_dark&hide_border=true"/>
+</p>
 <!--
 **isarossettini/isarossettini** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
