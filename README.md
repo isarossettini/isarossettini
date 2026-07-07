@@ -15,9 +15,11 @@ I enjoy building clean, scalable applications and I'm constantly improving my sk
 
 ## Featured Projects
 
-> 🚧 Coming soon...
->
-> I'm currently building a collection of backend applications focused on Java, Spring Boot and software engineering best practices.
+🚀 My backend portfolio is currently under development.
+
+The projects below will demonstrate my skills in Java, Spring Boot, REST APIs, PostgreSQL, Docker and AWS.
+
+Stay tuned!
 <!--
 **isarossettini/isarossettini** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
