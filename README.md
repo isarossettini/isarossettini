@@ -14,6 +14,10 @@ I enjoy building clean, scalable applications and I'm constantly improving my sk
 </p>
 
 ## Featured Projects
+
+> 🚧 Coming soon...
+>
+> I'm currently building a collection of backend applications focused on Java, Spring Boot and software engineering best practices.
 <!--
 **isarossettini/isarossettini** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
