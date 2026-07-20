@@ -17,7 +17,7 @@ I enjoy building clean, scalable applications and I'm constantly improving my sk
 
 > 🚀 Currently in development.
 >
-> My featured projects will appear here as I build and publish production-ready backed applications.
+> My featured projects will appear here as I build and publish production-ready backend applications.
 
 ## GitHub Stats
 
