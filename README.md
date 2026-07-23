@@ -13,7 +13,7 @@ I enjoy building clean, scalable applications and I'm constantly improving my sk
   <img src="https://skillicons.dev/icons?i=java,spring,postgres,git,maven,docker,aws" />
 </p>
 
-## Featured Projects
+## Featured Projects 
 
 > 🚀 Currently in development.
 >
