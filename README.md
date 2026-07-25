@@ -1,4 +1,4 @@
-# Hi, I'm Isabela Rossettini 👋
+# Hi, I'm Isabela Rossettini 
 
 ### Backend Java Developer
 
